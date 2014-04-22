@@ -1,0 +1,16 @@
+{
+  "name": "pc-scaffold-widget",
+  "version": "0.0.1",
+  "description": "a widget",
+  "main": "widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scaffold",
+    "pc",
+    "fis"
+  ],
+  "author": "fansekey",
+  "license": "MIT"
+}
